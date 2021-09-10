@@ -1,16 +1,15 @@
 ## Hi there! It's me Arjun Bajaj 👋
 
-[![HitCount](http://hits.dwyl.com/ArjunBajajAB/ArjunBajajAB.svg)](http://hits.dwyl.com/ArjunBajajAB/ArjunBajajAB)
-
-[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)  
+[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 [1]: https://www.facebook.com/profile.php?id=100009621166265
 [2]: https://github.com/ArjunBajajAB
+
 ### Gist about me:
 
-- 🔭 I’m currently working on technologies like Machine Learning, Deep Learning and Artificial Intelligence
-- 🌱 I’m currently exploring various libraries of Python
+- 🔭 I’m currently exploring my corporate life in a Multi National Company.
+- 🌱 I’m currently exploring various libraries of Python and technologies like Machine Learning, Deep Learning and Artificial Intelligence.
 - 👯 I’m looking to collaborate on projects related to Python Programming, Machine Learning and Deep Learning
 - 🤔 I have worked with various programming Languages such as Python, C++, HTML, CSS, PHP,etc from which Python is my favourite 
 - 💬 Ask me about Python programming problems or any ML, DL problems. If I can, I will surely help.
